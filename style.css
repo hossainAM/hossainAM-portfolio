@@ -1,0 +1,50 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    padding: 5rem;
+}
+
+/* .........................Section-onea: About us .....................*/
+.heading-wrapper {
+    border-left: 5px solid tomato;
+    font-size: 40px;
+}
+
+.heading-part-two {
+    color: orange;
+}
+
+.about-brief {
+    font-size: 20px;
+}
+
+.explore {
+    background-color: orangered;
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.section-text {
+    width: 65%;
+}
+
+.section-image {
+    width: 35%;
+    display: flex;
+}
+
+.about-us {
+    display: flex;
+}
+
+.about-us .section-image img {
+    border-radius: 50%;
+}
+
+/* .........................Section-Two: Mission-Vission .....................*/
+
+.mission-heading {
+    text-align: center;
+    font-size: 40px;
+}
