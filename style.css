@@ -1,4 +1,4 @@
-body {
+main {
     font-family: 'Roboto', sans-serif;
     padding: 5rem;
 }
@@ -131,4 +131,36 @@ body {
 .section-four .para {
     font-size: 20px;
     margin-bottom: 50px;
+}
+
+/* .........................Section-five:Services offer..............*/
+
+
+
+
+/* .........................Footer Area..............*/
+.footer-area {
+    margin-left: 0;
+    margin-top: 70px;
+    background-color: black;
+    padding: 40px;
+}
+
+.footer-text {
+    text-align: center;
+    color: rgb(196, 185, 185);
+}
+
+.footer-heading {
+    font-size: 50px;
+    font-family: 'Imperial Script', cursive;
+}
+
+.year {
+    color: rgb(252, 109, 84);
+}
+
+.footer-para {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
 }
