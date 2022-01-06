@@ -1,4 +1,4 @@
-main {
+.site-main {
     font-family: 'Roboto', sans-serif;
     padding: 5rem;
 }
@@ -103,7 +103,7 @@ main {
 } */
 
 .sec-three-heading {
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .section-three .para {
@@ -134,14 +134,48 @@ main {
 }
 
 /* .........................Section-five:Services offer..............*/
+.section-five {
+    margin-top: 70px;
+}
 
+.services-intro {
+    text-align: center;
+    margin-bottom: 70px;
+}
 
+.intro-heading {
+    font-size: 40px;
+}
 
+.intro-para {
+    font-size: 20px;
+}
+
+.service-heading {
+    font-size: 30px;
+}
+
+.service-para {
+    font-size: 20px;
+}
+
+/* .services {
+    display: flex;
+    align-items: center;
+} */
+
+.service {
+    background: rgba(248, 255, 253, 0.973);
+    margin: 20px 20px;
+    padding: 60px;
+    width: 350px;
+    text-align: center;
+}
 
 /* .........................Footer Area..............*/
 .footer-area {
     margin-left: 0;
-    margin-top: 70px;
+    margin-top: 50px;
     background-color: black;
     padding: 40px;
 }
