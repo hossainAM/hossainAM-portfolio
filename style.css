@@ -34,11 +34,11 @@ body {
     display: flex;
 }
 
-.about-us {
+.flexible-container {
     display: flex;
 }
 
-.about-us .section-image img {
+.section-one .section-image img {
     border-radius: 50%;
 }
 
@@ -47,4 +47,27 @@ body {
 .mission-heading {
     text-align: center;
     font-size: 40px;
+}
+
+.section-two .mission-description img {
+    width: 35%;
+    height: auto;
+}
+
+.container-item {
+    border: 1px solid transparent;
+    margin: 20px 20px;
+    padding: 20px 30px;
+}
+
+.mission {
+    background-color: rgb(225, 249, 252);
+}
+
+.vission {
+    background-color: rgb(250, 220, 226);
+}
+
+.goal {
+    background-color: rgb(226, 204, 226);
 }
