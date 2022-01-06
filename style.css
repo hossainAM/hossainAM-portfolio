@@ -7,6 +7,7 @@ body {
 .heading-wrapper {
     border-left: 5px solid tomato;
     font-size: 40px;
+    padding-left: 10px;
 }
 
 .heading-part-two {
@@ -20,9 +21,15 @@ body {
 .explore {
     background-color: orangered;
     text-decoration: none;
+    font-weight: 700;
     color: whitesmoke;
     padding: 10px 20px;
     border-radius: 5px;
+}
+
+.section-one .about-link {
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .section-text {
@@ -70,4 +77,36 @@ body {
 
 .goal {
     background-color: rgb(226, 204, 226);
+}
+
+/* .........................Section-Three: Development Commitment..............*/
+.section-three {
+    margin-top: 70px;
+}
+
+.link-button {
+    background-color: orangered;
+    text-decoration: none;
+    font-weight: 700;
+    color: whitesmoke;
+    padding: 20px 50px;
+    border-radius: 5px;
+}
+
+.section-three img {
+    width: 80%;
+}
+
+/* .bg-image {
+    background-image: url(./shapes/dream-bg.png);
+    background-repeat: no-repeat;
+} */
+
+.sec-three-heading {
+    font-size: 30px;
+}
+
+.section-three .para {
+    font-size: 20px;
+    margin-bottom: 50px;
 }
