@@ -110,3 +110,25 @@ body {
     font-size: 20px;
     margin-bottom: 50px;
 }
+
+/* .........................Section-four:Global Community..............*/
+.section-four {
+    margin-top: 70px;
+}
+
+.section-four .section-image {
+    margin-left: 150px;
+}
+
+.section-four .section-image img {
+    width: 80%;
+}
+
+.sec-four-heading {
+    font-size: 30px;
+}
+
+.section-four .para {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
